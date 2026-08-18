@@ -2,7 +2,7 @@
 
 แผนที่ GIS สำรวจข้อมูลบ่อน้ำบาดาลทั่วประเทศไทย — ตำแหน่ง ความลึก ปริมาณน้ำ (Yield) และระดับน้ำสถิต ต่อยอดจากแนวคิด "Groundwater Intelligence Map" ที่เน้นการวิเคราะห์/ตอบคำถาม ไม่ใช่แค่แผนที่จุดบ่อ
 
-**Live demo:** (เพิ่มลิงก์ GitHub Pages หลัง deploy)
+**Live demo:** https://dukperado-hue.github.io/groundwater-cool-map/
 
 ## สถานะปัจจุบัน: Phase 1 — Groundwater Explorer (MVP)
 
